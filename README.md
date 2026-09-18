@@ -1,4 +1,4 @@
-# Hi 👋, I'm Hozaifa
+# Hi 👋, I'm Huzaifa Khashan
 
 💻 Flutter Developer
 
