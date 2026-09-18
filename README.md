@@ -1,4 +1,4 @@
-# Hi 👋, I'm Huzaifa Khashan
+# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">, I'm Huzaifa Khashan
 
 💻 Flutter Developer
 
